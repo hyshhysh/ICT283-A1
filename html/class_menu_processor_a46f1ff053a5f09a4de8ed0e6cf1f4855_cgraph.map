@@ -1,5 +1,0 @@
-<map id="MenuProcessor::MenuOptionFour" name="MenuProcessor::MenuOptionFour">
-<area shape="rect" id="node1" title="Perform actions for menu option four." alt="" coords="5,35,223,61"/>
-<area shape="rect" id="node2" href="$class_measurement_calc.html#ab968855b666e298b81cbda466510de99" title="Calculate the mean value." alt="" coords="271,5,492,32"/>
-<area shape="rect" id="node3" href="$class_measurement_calc.html#aee3a0aeafe088c39cc8e38d697bbd23b" title="Calculate the standard deviation for wind speed." alt="" coords="287,57,476,98"/>
-</map>

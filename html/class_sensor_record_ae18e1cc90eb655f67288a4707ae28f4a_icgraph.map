@@ -1,5 +1,0 @@
-<map id="SensorRecord::GetAirTemperature" name="SensorRecord::GetAirTemperature">
-<area shape="rect" id="node1" title="Retrieve the air temperature in the sensor record." alt="" coords="252,31,473,57"/>
-<area shape="rect" id="node2" href="$_sensor_record_test_8cpp.html#a90e37b1b4f3eeaf6e44ee0fffcfa952e" title=" " alt="" coords="5,5,204,32"/>
-<area shape="rect" id="node3" href="$_sensor_record_test_8cpp.html#a48dd0418223c9ca5bd9fac595b7b0cc4" title=" " alt="" coords="38,56,171,83"/>
-</map>

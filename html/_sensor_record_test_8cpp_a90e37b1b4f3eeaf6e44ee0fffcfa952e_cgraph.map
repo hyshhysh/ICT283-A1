@@ -1,6 +1,0 @@
-<map id="Test1CheckDefaultConstructor" name="Test1CheckDefaultConstructor">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,204,83"/>
-<area shape="rect" id="node2" href="$class_sensor_record.html#ae18e1cc90eb655f67288a4707ae28f4a" title="Retrieve the air temperature in the sensor record." alt="" coords="252,5,473,32"/>
-<area shape="rect" id="node3" href="$class_sensor_record.html#a2823d92fa4dc8eb217c781a53ca6b1e0" title="Retrieve the solar radiation in the sensor record." alt="" coords="254,56,471,83"/>
-<area shape="rect" id="node4" href="$class_sensor_record.html#a00f9746cf99b86900919e0d1e5e78bab" title="Retrieve the wind speed in the sensor record." alt="" coords="263,107,463,133"/>
-</map>
