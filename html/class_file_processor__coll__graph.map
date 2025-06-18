@@ -1,0 +1,4 @@
+<map id="FileProcessor" name="FileProcessor">
+<area shape="rect" id="node1" title="Handles the processing of CSV files containing sensor data." alt="" coords="5,145,156,296"/>
+<area shape="rect" id="node2" title=" " alt="" coords="53,5,108,83"/>
+</map>

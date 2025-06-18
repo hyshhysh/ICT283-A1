@@ -1,0 +1,9 @@
+<map id="MenuProcessor::ProcessUserChoice" name="MenuProcessor::ProcessUserChoice">
+<area shape="rect" id="node1" title="Process the user&#39;s choice and perform corresponding actions." alt="" coords="5,74,201,115"/>
+<area shape="rect" id="node2" href="$class_menu_processor.html#a46f1ff053a5f09a4de8ed0e6cf1f4855" title="Perform actions for menu option four." alt="" coords="249,56,467,83"/>
+<area shape="rect" id="node5" href="$class_menu_processor.html#ad4f7addc3490a978753657cf85520d4e" title="Perform actions for menu option one." alt="" coords="251,107,465,133"/>
+<area shape="rect" id="node6" href="$class_menu_processor.html#a4b160e2530c3d6f5610a11c1c5477eeb" title="Perform actions for menu option three." alt="" coords="263,158,453,199"/>
+<area shape="rect" id="node7" href="$class_menu_processor.html#a6d57d702448442e43b0fa61b2949290e" title="Perform actions for menu option two." alt="" coords="251,5,465,32"/>
+<area shape="rect" id="node3" href="$class_measurement_calc.html#ab968855b666e298b81cbda466510de99" title="Calculate the mean value." alt="" coords="515,48,736,75"/>
+<area shape="rect" id="node4" href="$class_measurement_calc.html#aee3a0aeafe088c39cc8e38d697bbd23b" title="Calculate the standard deviation for wind speed." alt="" coords="531,99,720,141"/>
+</map>

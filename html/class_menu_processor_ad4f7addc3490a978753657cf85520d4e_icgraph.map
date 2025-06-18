@@ -1,0 +1,4 @@
+<map id="MenuProcessor::MenuOptionOne" name="MenuProcessor::MenuOptionOne">
+<area shape="rect" id="node1" title="Perform actions for menu option one." alt="" coords="249,13,464,39"/>
+<area shape="rect" id="node2" href="$class_menu_processor.html#a21b67f55f46c86f753daf824b7539a76" title="Process the user&#39;s choice and perform corresponding actions." alt="" coords="5,5,201,47"/>
+</map>

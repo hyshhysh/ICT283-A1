@@ -1,0 +1,7 @@
+<map id="MeasurementCalc::CalculateMean" name="MeasurementCalc::CalculateMean">
+<area shape="rect" id="node1" title="Calculate the mean value." alt="" coords="515,56,736,83"/>
+<area shape="rect" id="node2" href="$class_menu_processor.html#a46f1ff053a5f09a4de8ed0e6cf1f4855" title="Perform actions for menu option four." alt="" coords="249,5,467,32"/>
+<area shape="rect" id="node4" href="$class_menu_processor.html#ad4f7addc3490a978753657cf85520d4e" title="Perform actions for menu option one." alt="" coords="251,56,465,83"/>
+<area shape="rect" id="node5" href="$class_menu_processor.html#a6d57d702448442e43b0fa61b2949290e" title="Perform actions for menu option two." alt="" coords="251,107,465,133"/>
+<area shape="rect" id="node3" href="$class_menu_processor.html#a21b67f55f46c86f753daf824b7539a76" title="Process the user&#39;s choice and perform corresponding actions." alt="" coords="5,49,201,90"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MenuProcessor::MenuOptionTwo" name="MenuProcessor::MenuOptionTwo">
+<area shape="rect" id="node1" title="Perform actions for menu option two." alt="" coords="5,5,220,32"/>
+<area shape="rect" id="node2" href="$class_measurement_calc.html#ab968855b666e298b81cbda466510de99" title="Calculate the mean value." alt="" coords="268,5,489,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SensorRecord::GetWindSpeed" name="SensorRecord::GetWindSpeed">
+<area shape="rect" id="node1" title="Retrieve the wind speed in the sensor record." alt="" coords="252,5,452,32"/>
+<area shape="rect" id="node2" href="$_sensor_record_test_8cpp.html#a90e37b1b4f3eeaf6e44ee0fffcfa952e" title=" " alt="" coords="5,5,204,32"/>
+</map>

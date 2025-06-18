@@ -1,0 +1,9 @@
+<map id="Test2CheckSetters" name="Test2CheckSetters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,139,159"/>
+<area shape="rect" id="node2" href="$class_date.html#ae339dd36fa485f57ad9588ce459c990c" title="Parameterized constructor for Date class." alt="" coords="255,5,339,32"/>
+<area shape="rect" id="node3" href="$class_sensor_record.html#ae18e1cc90eb655f67288a4707ae28f4a" title="Retrieve the air temperature in the sensor record." alt="" coords="187,56,408,83"/>
+<area shape="rect" id="node4" href="$class_sensor_record.html#a73c428bc53fed03c29ff657ac4cd94e0" title="Retrieve the date of the sensor record." alt="" coords="217,107,377,133"/>
+<area shape="rect" id="node5" href="$class_date.html#aa316776e60e28ae20a710bcf6d96b7b8" title="Retrieve month." alt="" coords="240,157,355,184"/>
+<area shape="rect" id="node6" href="$class_sensor_record.html#a4d4c8334ae8a83b7c81120be1c9b30e1" title="Set the air temperature in the sensor record." alt="" coords="187,208,407,235"/>
+<area shape="rect" id="node7" href="$class_sensor_record.html#a49b7f5dce83ef19fe1af0406f41e76d6" title="Set the date of the sensor record." alt="" coords="218,259,377,285"/>
+</map>
